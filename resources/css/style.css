@@ -1,0 +1,45 @@
+html ,
+body ,
+.wrapper {
+	width: 100%;
+	height: 100%;
+}
+
+.div-with-form {
+	height: 15em;
+	margin-left: calc(50% - 7.5em);
+	float: left;
+	height: 4.5em;
+	padding: auto;
+	margin-top: calc(50vh - 4.5em);
+}
+
+.object-of-form {
+	height: 1.25em;
+	width: 13em;
+}
+
+.but-in-forms {
+	width: calc(13em + 4px);
+	padding: auto;
+}
+
+header {
+	float: right;
+	height: 2em;
+}
+
+footer {
+	background: #0A0A0A;
+	width: 100%;
+	height: 3em;
+	color: #F2E5FD;
+	float: left;
+	margin-top: calc(50vh - 3em);
+}
+
+.copy {
+	font-size: 1em;
+	margin-top: 1.9em;
+	float: right;
+}
